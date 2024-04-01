@@ -1,0 +1,4 @@
+export default {
+  ITEM_REPOSITORY: "ITEM_REPOSITORY",
+  DATA_SOURCE: "DATA_SOURCE",
+}
